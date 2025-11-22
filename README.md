@@ -212,3 +212,6 @@ Good luck with the challenge!
 ---
 
 Built for the AI Voice Agents Challenge by murf.ai
+
+### Day 1 Completed — Backend + Frontend + LiveKit Cloud Setup
+
